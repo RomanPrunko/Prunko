@@ -1,0 +1,3 @@
+Для того щоб встановити Git на ОС Linux (Debian, Ubuntu, Mint):
+
+apt-get install git
